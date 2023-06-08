@@ -1,0 +1,11 @@
+
+presentation sql vs NOsql:
+
+mongodb vs sql :
+
+- MongoDB is an object-oriented, simple, dynamic and scalable NoSQL database. 
+- It is based on the NoSQL document storage model where the data objects are stored as separate and flexible JSON-like documents.
+- MongoDB is easy to install and free to use. 
+- sql lets you access and manipulate databases
+- sql is a programming language for storing and processing information in a relational database.
+	
